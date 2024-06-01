@@ -15,9 +15,14 @@
 | Bairon Ismael Castellanos Valle | 7690-21-10973 |
 | Esdras Wilfredo Pérez Coloma    | 7690-14-6737  |
 
-<!-- Enlaces -->
+<!-- Enlaces a video -->
 ### Video demostrativo:
-[Video demostrativo](https://drive.google.com/file/d/15UxwBMQKE2z_IfXB19ZqfByVylci5MwM/view?usp=sharing "Ver el video demostrativo") -->
+[Video demostrativo](https://drive.google.com/file/d/15UxwBMQKE2z_IfXB19ZqfByVylci5MwM/view?usp=sharing "Ver el video demostrativo")
+
+<!-- Enlaces a códigos -->
+[Ver código del Emisor](https://github.com/esdraswperez/proyecto-final-se-ales-morse/blob/master/Emisor%20codigo%20morse.cpp "Emisor")
+[Ver código del Receptor](https://github.com/esdraswperez/proyecto-final-se-ales-morse/blob/master/Receptor%20codigo%20morse.cpp "Receptor")
+
 
 <!-- Lista de material de apoyo (Sofware)-->
 ### Material de apoyo (Software):
